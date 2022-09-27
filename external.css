@@ -32,6 +32,8 @@ Click nbfs://nbhost/SystemFileSystem/Templates/Other/CascadeStyleSheet.css to ed
     bottom: 0;
     width: 100%;
     background-color: lightgoldenrodyellow;
-    color: white;
+    color: black;
     text-align: center;
+    display: inline;
+    margin-right: 1em;
 }
