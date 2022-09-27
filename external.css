@@ -18,7 +18,7 @@ Click nbfs://nbhost/SystemFileSystem/Templates/Other/CascadeStyleSheet.css to ed
 .green_color{
     color:green;
 }
-.button {
+.button{
     border: solid black;
     color: white;
     text-align: center;
@@ -26,7 +26,7 @@ Click nbfs://nbhost/SystemFileSystem/Templates/Other/CascadeStyleSheet.css to ed
     margin: 4px 40px;
     padding: 15px 30px;
 }
-.class_footer {
+.class_footer{
     position: fixed;
     left: 0;
     bottom: 0;
@@ -35,5 +35,5 @@ Click nbfs://nbhost/SystemFileSystem/Templates/Other/CascadeStyleSheet.css to ed
     color: black;
     text-align: center;
     display: inline;
-    margin-right: 1em;
+    margin-right: 10px;
 }
